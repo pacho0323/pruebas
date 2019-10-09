@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola mamá, y papá, como estan
+=======
+hola mamá, y papá
+>>>>>>> b1b8109... actualizar mensajes
